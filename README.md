@@ -2,7 +2,7 @@
 
   
 
-### Introduction
+## Introduction
 
 This project deals with the Top 50 Spotify Tracks of the Year 2020 dataset. The objective of this work is to analyse the aforementioned data to answer the following questions:
 
